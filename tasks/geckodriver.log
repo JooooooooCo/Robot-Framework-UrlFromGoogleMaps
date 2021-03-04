@@ -1,0 +1,72 @@
+1605705616875	geckodriver	INFO	Listening on 127.0.0.1:58155
+1605705619913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\ProgramData\\Temp\\rc_583e1d\\AppData\\Local\\robocorp\\RobocodeLab\\temp\\rust_mozprofilezE8q3P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605705625873	Marionette	INFO	Listening on port 58163
+1605705626139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1605705628165	Marionette	INFO	Stopped listening on port 58163
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605706036773	geckodriver	INFO	Listening on 127.0.0.1:58387
+1605706039808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\ProgramData\\Temp\\rc_583e1d\\AppData\\Local\\robocorp\\RobocodeLab\\temp\\rust_mozprofileya1T2a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605706044010	Marionette	INFO	Listening on port 58395
+1605706044032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605706098503	Marionette	INFO	Stopped listening on port 58395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+AppData\\Local\\robocorp\\RobocodeLab\\temp\\rust_mozprofileAvnrSP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605706066264	Marionette	INFO	Listening on port 58483
+1605706066350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605706097704	Marionette	INFO	Stopped listening on port 58483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+AppData\\Local\\robocorp\\RobocodeLab\\temp\\rust_mozprofileUDmVH8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605706088529	Marionette	INFO	Listening on port 58570
+1605706088700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605706097146	Marionette	INFO	Stopped listening on port 58570
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605706106499	geckodriver	INFO	Listening on 127.0.0.1:58651
+1605706109509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\ProgramData\\Temp\\rc_583e1d\\AppData\\Local\\robocorp\\RobocodeLab\\temp\\rust_mozprofiled3TjYC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605706114599	Marionette	INFO	Listening on port 58659
+1605706114737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1605706117123	Marionette	INFO	Stopped listening on port 58659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605709527034	geckodriver	INFO	Listening on 127.0.0.1:61213
+1605709530088	geckodriver	INFO	Listening on 127.0.0.1:61222
+1605709533117	geckodriver	INFO	Listening on 127.0.0.1:61231
+1605709630124	geckodriver	INFO	Listening on 127.0.0.1:61300
+1605709633380	geckodriver	INFO	Listening on 127.0.0.1:61309
+1605709636444	geckodriver	INFO	Listening on 127.0.0.1:61318
+1605709723031	geckodriver	INFO	Listening on 127.0.0.1:61401
+1605709726045	geckodriver	INFO	Listening on 127.0.0.1:61410
+1605709729090	geckodriver	INFO	Listening on 127.0.0.1:61421
